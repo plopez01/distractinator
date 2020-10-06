@@ -1,0 +1,14 @@
+# YOUTUBE
+The lines you add here are read when you are detected in this banned app.
+** REDDIT
+The lines you add here are read when you are detected in this banned app.
+** TWITTER
+The lines you add here are read when you are detected in this banned app.
+** DISCORD
+The lines you add here are read when you are detected in this banned app.
+** STEAM
+The lines you add here are read when you are detected in this banned app.
+** EL CODIGO
+The lines you add here are read when you are detected in this banned app.
+** ADMIN DE TAREAS
+The lines you add here are read when you are detected in this banned app.

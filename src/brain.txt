@@ -1,0 +1,2 @@
+This line is read when the program is started.
+The rest of the lines you add are read when you are working.
