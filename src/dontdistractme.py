@@ -74,7 +74,7 @@ while True:
     elif(working == 1):
         if(agressivelvl >= 3):
             agressivelvl = 0
-            engine.say("A TOMAR POR CULO")
+            engine.say("ya te he avisado, hay trabajar mas")
             engine.runAndWait()
             win32gui.PostMessage(win32gui.GetForegroundWindow(),win32con.WM_CLOSE,0,0)
         else: 
